@@ -1,0 +1,9 @@
+{
+  "name": "CarDataGrabber",
+  "version": "1.0.0",
+  "description": "Pull data from nhtsa and save to firebase instance",
+  "main": "index.js",
+  "repository": "git@github.com:ckeedev/CarDataGrabber.git",
+  "author": "Chris Kee <chris@chriskee.com>",
+  "license": "MIT"
+}
